@@ -18,3 +18,7 @@ htmlcov/
 # OS
 .DS_Store
 Thumbs.db
+
+# Internal working docs (not for submission)
+plans/
+
