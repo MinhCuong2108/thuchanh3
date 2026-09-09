@@ -85,4 +85,3 @@ python3 -m unittest discover -s tests -v
 
 - Python 3.12
 - `unittest` (built-in, không cần cài thêm)
-- Không dùng ChatGPT — code viết thủ công
